@@ -1,14 +1,19 @@
 <div>
-  <a href="https://www.linkedin.com/in/wallacesalles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 	<a href="https://hub.docker.com/u/wsalles" target="_blank"><img src="https://img.shields.io/badge/Docker-03234B?style=for-the-badge&logo=docker&logoColor=white" target="_blank"></a>
- <a href="https://t.me/wallacesalles" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ops@wallacesalles.dev"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank"></a>
-  
- 
+  <a href="https://www.linkedin.com/in/wallacesalles" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://hub.docker.com/u/wsalles" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-03234B?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+  </a>
+  <a href="https://t.me/wallacesalles" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:ops@wallacesalles.dev">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank">
+  </a>
 </div>
 
-
-### I'm Wallace 👋
+### Hey! Welcome! I'm Wallace and it's a pleasure to see you here.
 
 I have been working with IT since 2011. During this time, I worked as SysAdmin, Developer, Data Science, Business Intelligence and Support (not necessarily in that order).
 
@@ -20,7 +25,7 @@ However, it was only in 2014 that I discovered that I love writing code and buil
 <table>
   <tr>
     <td>🖥️</td>
-    <td>I’m currently working on <a href="https://www.hotmart.com/en"><b>Hotmart</b></a></td>
+    <td>I’m currently working on <a href="https://www.hotmart.com/en" target="_blank"><b>Hotmart</b></a></td>
   </tr>
   <tr>
     <td>📖</td>
@@ -40,7 +45,7 @@ However, it was only in 2014 that I discovered that I love writing code and buil
   </tr>
   <tr>
     <td>❓</td>
-    <td>You can see more about me on my webpage: https://wallacesalles.dev/</td>
+    <td>You can see more about me on <a href="https://wallacesalles.dev/" target="_blank"><b>my webpage</b></a></td>
   </tr>
 </table>
 
