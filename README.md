@@ -25,11 +25,11 @@ However, it was only in 2014 that I discovered that I love writing code and buil
 <table>
   <tr>
     <td>🖥️</td>
-    <td>I’m currently working on <a href="https://www.hotmart.com/en" target="_blank"><b>Hotmart</b></a></td>
+    <td>I’m currently working on <a href="https://ydata.ai/" target="_blank"><b>Ydata</b></a></td>
   </tr>
   <tr>
     <td>📖</td>
-    <td>I’m currently learning Golang and Java</td>
+    <td>I’m currently learning Golang and React</td>
   </tr>
   <tr>
     <td>💬</td>
