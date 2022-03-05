@@ -24,12 +24,8 @@ However, it was only in 2014 that I discovered that I love writing code and buil
 
 <table>
   <tr>
-    <td>🖥️</td>
-    <td>I’m currently working on <a href="https://ydata.ai/" target="_blank"><b>Ydata</b></a></td>
-  </tr>
-  <tr>
     <td>📖</td>
-    <td>I’m currently learning Golang and React</td>
+    <td>I’m currently learning React and ML</td>
   </tr>
   <tr>
     <td>💬</td>
@@ -76,6 +72,5 @@ However, it was only in 2014 that I discovered that I love writing code and buil
   </a>
 </div>
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@wsalles)](https://github.com/anuraghazra/github-readme-stats)
--->
+* * *
 #
