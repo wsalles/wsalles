@@ -1,15 +1,18 @@
 <div>
+  <a href="https://wallacesalles.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Web%20Page-blueviolet?style=for-the-badge&logo=hugo&logoColor=white" target="_blank">
+  </a>
   <a href="https://www.linkedin.com/in/wallacesalles" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
  	<a href="https://hub.docker.com/u/wsalles" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-03234B?style=for-the-badge&logo=docker&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Docker Hub-03234B?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" target="_blank">
   </a>
   <a href="https://t.me/wallacesalles" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
   </a> 
   <a href = "mailto:ops@wallacesalles.dev">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail.ru&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=mail.ru&logoColor=white&color=EA4335" target="_blank">
   </a>
 </div>
 
@@ -19,17 +22,16 @@ I have been working with IT since 2011. During this time, I worked as SysAdmin, 
 
 However, it was only in 2014 that I discovered that I love writing code and building and improving infrastructure with more resilience, performance, and high availability. Also in 2014, I learned about the DevOps culture and processes.
 
-
 #
 
 <table>
   <tr>
     <td>📖</td>
-    <td>I’m currently learning React and ML</td>
+    <td>Currently I’m learning how to optimize my time :hourglass_flowing_sand:</td>
   </tr>
   <tr>
     <td>💬</td>
-    <td>Ask me about Games, Automations, Monitoring, DevOps culture, Infra as Code (IaC), Development and stuff like that :)</td>
+    <td>Ask me about Automation, Monitoring, DevOps culture&process, Infra as Code (IaC), Development and Games :)</td>
   </tr>
   <tr>
     <td>🌩️</td>
@@ -41,7 +43,7 @@ However, it was only in 2014 that I discovered that I love writing code and buil
   </tr>
   <tr>
     <td>❓</td>
-    <td>You can see more about me on <a href="https://wallacesalles.dev/" target="_blank"><b>my webpage</b></a></td>
+    <td>Please, feel free to reach me via linkedIn, telegram or e-mail.</td>
   </tr>
 </table>
 
